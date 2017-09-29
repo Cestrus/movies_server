@@ -2,11 +2,11 @@ Simple JSON server for "Movies" project
 
 To start using it, you have to clone this repo and do:
  
-```npm install -g json-server```
+```npm install```
 
 inside server folder you can run it with
 
-```$ json-server --watch db.json```
+```$ npm start```
 
 it will start on localhost:3000
 
