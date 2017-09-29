@@ -8,25 +8,25 @@ inside server folder you can run it with
 
 ```$ npm start```
 
-it will start on localhost:3000
+it will start on localhost:3001
 
 it stores your "movies" data base in db.json.
 
 it implements REST API:
 
-`` GET http://localhost:3000/movies/1``
+`` GET http://localhost:3001/movies/1``
 to fetch movie by id
 
-`` GET http://localhost:3000/movies``
+`` GET http://localhost:3001/movies``
 to fetch all movies
 
-``PUT http://localhost:3000/movies/1``
+``PUT http://localhost:3001/movies/1``
 to update particular movie
 
-``DELETE http://localhost:3000/movies/1``
+``DELETE http://localhost:3001/movies/1``
 to delete particular movie
 
-``POST http://localhost:3000/movies/1``
+``POST http://localhost:3001/movies/1``
 to create particular movie
 
 

@@ -62,7 +62,7 @@
     "test": "npm run test:cli && npm run test:server && eslint .",
     "test:cli": "npm run build && cross-env NODE_ENV=test mocha test/cli/*.js",
     "test:server": "cross-env NODE_ENV=test mocha test/server/*.js",
-    "start": "json-server --watch db.json",
+    "start": "json-server --watch db.json --port 3001",
     "format": "eslint . --fix",
     "build": "babel src -d lib --copy-files",
     "toc": "markdown-toc -i README.md",
