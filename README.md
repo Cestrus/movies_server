@@ -26,7 +26,7 @@ to update particular movie
 ``DELETE http://localhost:3001/movies/1``
 to delete particular movie
 
-``POST http://localhost:3001/movies/1``
+``POST http://localhost:3001/movies``
 to create particular movie
 
 
