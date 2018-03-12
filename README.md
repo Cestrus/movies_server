@@ -88,7 +88,7 @@ body example for movie update movie:
         "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,352,500_AL_.jpg",
         "stars": 4,
         "likes": 15,
-        "actactorsIdsors": [1, 2],
+        "actactorsId": [1, 2],
         "director": "Francis Ford Coppola",
         "description": "Cool movie"
     }
